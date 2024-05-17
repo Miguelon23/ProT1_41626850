@@ -1,0 +1,94 @@
+/*body {
+    background-color: #eaf2a3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.parrafo {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}*/
+
+header {
+    background-color: #69bd45;
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: #4caf50;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+    
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #2f8247;
+}
+
+section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+    font-style: italic;
+} /*Agrego esta clase para poder centrar los parrafos*/
+
+img {
+    display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+    margin: 0 auto; /* Centrar las imágenes horizontalmente */
+    max-width: 40%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+    border: 3px solid #69bd45; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+    border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
+}
+
+footer {
+    background-color: #4caf50; /* Color de fondo del footer */
+    color: #fff;
+    padding: 5px;
+    max-width: 100%; /* Ancho máximo del contenido del footer */
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.icon {
+    width: 50px; /* Ajusta el tamaño de los íconos según sea necesario */
+    height: 30px; /* Ajusta el tamaño de los íconos según sea necesario */
+    background-color: #ADF267;
+}
+
+footer h4 {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+} 
