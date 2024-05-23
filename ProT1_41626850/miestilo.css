@@ -13,7 +13,7 @@
 }*/
 
 header {
-    background-color: #69bd45;
+    background-color: #F09819;
     color: #fff;
     text-align: center;
     font-size: 60px;
@@ -22,7 +22,7 @@ header {
 }
 
 nav {
-    background-color: #4caf50;
+    background-color: #f4791f;
     padding: 10px;
 }
 
@@ -46,11 +46,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #2f8247;
+    background-color: #F4D03F;
 }
 
 section {
     padding: 20px; /* espaciado para la sección de 20 pixeles */
+    background-color: #F9D423;
 }
 
 .container {
@@ -63,12 +64,12 @@ img {
     display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
     margin: 0 auto; /* Centrar las imágenes horizontalmente */
     max-width: 40%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
-    border: 3px solid #69bd45; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+    border: 3px solid #F4D03F; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
     border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
 }
 
 footer {
-    background-color: #4caf50; /* Color de fondo del footer */
+    background-color: #F09819; /* Color de fondo del footer */
     color: #fff;
     padding: 5px;
     max-width: 100%; /* Ancho máximo del contenido del footer */
@@ -84,7 +85,7 @@ footer {
 .icon {
     width: 50px; /* Ajusta el tamaño de los íconos según sea necesario */
     height: 30px; /* Ajusta el tamaño de los íconos según sea necesario */
-    background-color: #ADF267;
+    background-color: #F4D03F;
 }
 
 footer h4 {
